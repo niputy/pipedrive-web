@@ -1,0 +1,25 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #4C4E52;
+    padding: 12px 18px;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.header-container h2{
+    font-size: 40px;
+    font-weight: 800;
+    color: white;
+}
+
+.button-add {
+    background-color: green;
+    color: white;
+    border-radius: 15px;
+    padding: 10px 16px;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
